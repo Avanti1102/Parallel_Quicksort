@@ -40,7 +40,7 @@ Once you have installed the JDK, you can proceed with compiling and running the 
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/Soham0902/Parallel_Quick_Sort.git
+    git clone https://github.com/Avanti1102/Parallel_Quicksort.git
     ```
 2. **Compile the Java Code**
     ```sh
@@ -73,7 +73,7 @@ Contributions are welcome! Here's how you can contribute:
 
 ## 📞 Contact
 
-Project Link: [Parallel Quick Sort](https://github.com/Soham0902/Parallel_Quick_Sort)
+Project Link: [Parallel_Quicksort](https://github.com/Avanti1102/Parallel_Quicksort)
 
 ---
 
